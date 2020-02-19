@@ -1,0 +1,6 @@
+https://developer.spotify.com/discover/
+https://developer.spotify.com/documentation/web-api/libraries/
+https://spotipy.readthedocs.io/en/2.9.0/
+https://developer.spotify.com/discover/
+
+https://github.com/spotify/chartify
